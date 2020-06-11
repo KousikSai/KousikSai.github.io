@@ -86,4 +86,6 @@ html{
     display:flex;
    
 }
-
+.section:nth-child(even){
+    background-color:navajowhite;
+}
